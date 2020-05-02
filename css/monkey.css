@@ -25,3 +25,12 @@ html {
 }
 
 
+@media screen and (min-width:406px){
+  #monkey {
+  
+  top: 550px;
+  right: 650px;
+}
+}
+
+

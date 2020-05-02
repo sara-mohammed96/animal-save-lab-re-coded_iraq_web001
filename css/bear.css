@@ -6,7 +6,16 @@ html {
   position: absolute;
   top: 100px;
   right: 0;
+  margin-left:800px;
 }
 
-/* Write your solution here */
+
+@media screen and (max-width:1592px)
+{
+  #bear {
+   left:800px;
+   
+  }
+}
+
 
